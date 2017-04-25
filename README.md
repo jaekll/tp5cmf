@@ -1,0 +1,2 @@
+# tp5cmf
+thinkphp5的cmf，可以说是thinkcmf的tp5版本。用了很久的thinkcmf但是一直没人升级至thinkphp5。于是我动手了
